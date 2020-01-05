@@ -1,0 +1,1 @@
+document.getElementById("aads-box").innerHTML = '<iframe data-aa="1306133" src="//acceptable.a-ads.com/1306133" scrolling="no" style="border:0px; padding:0; width: 100%; height: 60px; overflow:hidden" allowtransparency="true"></iframe>';
