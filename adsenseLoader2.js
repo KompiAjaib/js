@@ -1,1 +1,0 @@
-(function() { var ad = document.createElement('script'); ad.setAttribute('data-ad-client',capub'); ad.async = true; ad.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'; var sc = document.getElementsByTagName('script')[0]; sc.parentNode.insertBefore(ad, sc); })();
